@@ -6,4 +6,4 @@ This page collects documentation for software, AI and dataset resources develope
 
 HITeC/SEMS developed several AI solutions, in particular for Knowledge Extraction and Question Answering.
 
-- [coypu-SHACL-Generator](docs/coypu-SHACL-Generator.md)
+- [coypu-SHACL-Generator](coypu-SHACL-Generator.md)
