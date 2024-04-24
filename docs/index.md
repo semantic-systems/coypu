@@ -9,3 +9,8 @@ HITeC/SEMS developed several AI solutions, in particular for Knowledge Extractio
 - [coypu-SHACL-Generator](coypu-SHACL-Generator)
 - [coypu-temporal-extraction-service](coypu-temporal-extraction-service)
 - [coypu-KGQA](coypu-KGQA)
+
+## Datasets
+
+- [coypu-KGQA-Dataset](coypu-KGQA-Dataset)
+
