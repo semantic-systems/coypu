@@ -29,3 +29,8 @@ HITeC/SEMS developed several AI solutions, in particular for Knowledge Extractio
 ## Data collection 
 
 - [coypu-feeds](coypu-feeds)
+
+
+## Data visualization
+
+- [coypu-kg-vis](coypu-kg-vis)
