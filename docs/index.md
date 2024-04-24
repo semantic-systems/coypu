@@ -24,6 +24,7 @@ HITeC/SEMS developed several AI solutions, in particular for Knowledge Extractio
 ## Datasets
 
 - [coypu-KGQA-Dataset](coypu-KGQA-Dataset)
+- [coypu-wiki-events](coypu-wiki-events)
 
 
 ## Data collection 
