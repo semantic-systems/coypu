@@ -19,6 +19,7 @@ HITeC/SEMS developed several AI solutions, in particular for Knowledge Extractio
 - [coypu-event-severity-scorer](coypu-event-severity-scorer)
 - [coypu-LlamaKGQA](coypu-LlamaKGQA)
 - [coypu-EventArgumentExtractor](coypu-EventArgumentExtractor)
+- [coypu-crisis-lm](coypu-crisis-lm)
 
 ## Datasets
 
