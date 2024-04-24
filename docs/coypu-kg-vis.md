@@ -1,15 +1,6 @@
-<div align="center">
 
 # [CoyPu KG Visualization](https://github.com/semantic-systems/coypu-kg-vis)
 
-[Introduction](#introduction)
-
-- [Features](#features)
-- [Installation](#installation)
-- [Keybindings](#keybindings) 
-
-
-</div>
 
 ## Introduction
 This knowledge graph visualization tool aims to help you visualize and explore knowledge graphs directly in your browser. The goal is to provide an intuitive and user-friendly interface to explore knowledge graphs and discover relations.
