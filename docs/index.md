@@ -20,6 +20,8 @@ HITeC/SEMS developed several AI solutions, in particular for Knowledge Extractio
 - [coypu-LlamaKGQA](coypu-LlamaKGQA)
 - [coypu-EventArgumentExtractor](coypu-EventArgumentExtractor)
 - [coypu-crisis-lm](coypu-crisis-lm)
+- [coypu-KnowledgeExtraction: custom (initial) Event Detector and OpenIE Event Argument Extractor](coypu-KnowledgeExtraction-1)
+- [coypu-KnowledgeExtraction: A bert-based baseline event extractor](coypu-KnowledgeExtraction-2)
 
 ## Datasets
 
